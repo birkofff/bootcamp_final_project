@@ -1,0 +1,1222 @@
+,Spécialité,Domaine,Durée (année),Type Diplôme,Diplômés,id_
+1,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",2,Technique,5,4
+2,Cuisine,"Tourisme, Hôtellerie et Restauration",2,Technique,10,4
+3,Patisserie,"Tourisme, Hôtellerie et Restauration",2,Technique,20,4
+1,Architecture,"Architecture, Urbanisme et Aménagement du territoire",4,Licence,35,77
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,40,77
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,40,77
+4,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,20,77
+5,Plomberie,Métiers du bâtiment et autres,2,Diplome,27,77
+6,Electricité,Métiers du bâtiment et autres,2,Diplome,29,77
+7,Génie Civil,Sciences de l’Ingénieur,5,Licence,30,77
+8,Topographie,Sciences de l’Ingénieur,2,Diplome,23,77
+9,Economie,Sciences économiques et politiques,4,Licence,27,77
+10,Sciences Informatiques,Sciences Informatiques,4,Licence,28,77
+11,Télécommunication,Sciences Informatiques,2,Diplome,25,77
+12,Informatique de Gestion,Sciences Informatiques,2,Diplome,30,77
+1,Relations publiques,Marketing,2 ans,Technique,25,276
+2,Restauration,"Tourisme, Hôtellerie et Restauration",2 ans,Technique,30,276
+3,Cuisine,"Tourisme, Hôtellerie et Restauration",9 mois,Technique,20,276
+4,Patisserie,"Tourisme, Hôtellerie et Restauration",10 mois,Technique,20,276
+5,Hôtellerie,"Tourisme, Hôtellerie et Restauration",2 ans,Technique,25,276
+1,Droit,Droit,4,Licence,8,56
+2,Gouvernance,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,6,56
+3,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,8,56
+4,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,8,56
+5,Gestion Touristique,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,10,56
+6,Marketing,Marketing,2,Diplome,8,56
+7,Diplomatie,Sciences économiques et politiques,4,Licence,15,56
+8,Secrétariat,Secrétariat,2,Diplome,15,56
+9,Hôtellerie,"Tourisme, Hôtellerie et Restauration",2,Diplome,11,56
+1,Photographie / Vidéographie,"Arts, Culture, Design et mode",6 mois,Certificat,40,174
+2,Communication,Communication et Journalisme,12 mois,Diplome,20,174
+3,Techniques Douanières,Douane,12 mois,Diplome,20,174
+4,Anglais,Langues et Lettres,12 mois,Certificat,60,174
+5,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",1,Diplome,60,174
+6,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",18 mois,Diplome,50,174
+7,Enseignement Technique,Sciences de l’Education,2 mois,Certificat,50,174
+8,Technique Informatique,Sciences Informatiques,10,Diplome,400,174
+9,Dépannage d'ordinateurs,Sciences Informatiques,1,Certificat,150,174
+10,Infographie,Sciences Informatiques,1,Certificat,80,174
+11,Réseau,Sciences Informatiques,6 mois,Certificat,30,174
+12,Secrétariat,Secrétariat,2,Diplome,15,174
+13,Assistante Administrative,Secrétariat,2 ans,Diplome,20,174
+1,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",1,Certificat,11,6
+2,Mécanique Auto - Diesel,Mécanique,2,Technique,9,6
+3,Electricité,Métiers du bâtiment et autres,1,Certificat,29,6
+4,Réfrigération,Métiers du bâtiment et autres,1,Technique,7,6
+5,Electrotechnique/Electromecanique,Métiers du bâtiment et autres,1,Technique,4,6
+1,Mécanique automobile,Mécanique,2,Technique,10 @ 12,175
+2,Ferronnerie Soudure,Métiers du bâtiment et autres,1,Technique,10,175
+3,Construction Bâtiment,Métiers du bâtiment et autres,2 ans,Technique,12 @ 15,175
+1,Cordonnerie,"Arts, Culture, Design et mode",1,Technique,134,7
+2,Travaux du cuir,"Arts, Culture, Design et mode",1,Technique,100,7
+3,Coupe - Confect. masculine,"Arts, Culture, Design et mode",1,Technique,100,7
+4,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",2,Technique,100,7
+5,Broderie,"Arts, Culture, Design et mode",1,Technique,34,7
+6,Electricité Auto,Mécanique,2,Technique,52,7
+7,Ferronnerie Soudure,Métiers du bâtiment et autres,2,Technique,117,7
+8,Plomberie,Métiers du bâtiment et autres,2,Technique,32,7
+9,Cuisine,"Tourisme, Hôtellerie et Restauration",1,Technique,100,7
+1,Artisanat,"Arts, Culture, Design et mode",2,Technique,26,8
+2,Plomberie,Métiers du bâtiment et autres,2,Technique,23,8
+3,Electricité,Métiers du bâtiment et autres,2,Technique,29,8
+4,Construction Bâtiment,Métiers du bâtiment et autres,2 ans,Technique,39,8
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Technique,20,10
+2,Gestion Financière,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,20,10
+3,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",1,Certificat,25,10
+4,Hôtesse de l'air,Métiers de l'air,1,Technique,20,10
+5,Technique Informatique,Sciences Informatiques,2,Diplome,25,10
+6,Secrétariat,Secrétariat,2,Technique,25,10
+1,Mécanique Industrielle,Mécanique,2,Technique,20,224
+2,Electrotechnique/Electromecanique,Métiers du bâtiment et autres,2,Technique,85,224
+3,Télécommunication,Sciences Informatiques,2,Technique,55,224
+4,Réseau,Sciences Informatiques,2,Technique,106,224
+1,Techniques Douanières,Douane,1,Technique,2,23
+1,Cordonnerie,"Arts, Culture, Design et mode",2 ans,Technique,20-30,24
+2,Travaux du cuir,"Arts, Culture, Design et mode",2 ans,Technique,25-30,24
+3,Broderie,"Arts, Culture, Design et mode",2 ans,Technique,15-20,24
+4,Art - Floral,"Arts, Culture, Design et mode",2 ans,Technique,30-40,24
+5,Artisanat,"Arts, Culture, Design et mode",2 ans,Technique,20-30,24
+6,Coupe - Confect. masculine,"Arts, Culture, Design et mode",2 ans,Technique,15-20,24
+7,Ferronnerie Soudure,Métiers du bâtiment et autres,2 ans,Technique,15-20,24
+8,Ebenisterie,Métiers du bâtiment et autres,2 ans,Technique,20-24,24
+9,Carrelage,Métiers du bâtiment et autres,2 ans,Technique,30-35,24
+10,Cuisine,"Tourisme, Hôtellerie et Restauration",2 ans,Technique,20-30,24
+1,Coupe couture,"Arts, Culture, Design et mode",2,Technique,6,268
+2,Poterie,"Arts, Culture, Design et mode",1,Technique,1,268
+3,Carrelage,Métiers du bâtiment et autres,2,Technique,39,268
+4,Ebenisterie,Métiers du bâtiment et autres,2,Technique,17,268
+5,Arts ménagers,"Tourisme, Hôtellerie et Restauration",1 an,Technique,26,268
+1,Electricité Auto,Mécanique,1,Diplome,10,176
+2,Mécanique automobile,Mécanique,2,Diplome,10,176
+3,Construction Bâtiment,Métiers du bâtiment et autres,2,Diplome,10,176
+4,Ferronnerie Soudure,Métiers du bâtiment et autres,1,Diplome,10,176
+5,Carrelage,Métiers du bâtiment et autres,1,Diplome,10,176
+6,Plomberie,Métiers du bâtiment et autres,2,Diplome,10,176
+1,Sciences Infirmières,Santé et Professions médicales,-,Certificat,-,248
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Technique,5,27
+2,Technique Informatique,Sciences Informatiques,1,Technique,6,27
+3,Dépannage d'ordinateurs,Sciences Informatiques,1,Technique,6,27
+4,Secrétariat,Secrétariat,2,Technique,6,27
+5,Secrétariat,Secrétariat,1,Technique,6,27
+1,Artisanat,"Arts, Culture, Design et mode",1,Certificat,10,177
+2,Décoration et Architecture d’intérieur,"Arts, Culture, Design et mode",1,Certificat,15,177
+3,Coupe - Confect. masculine,"Arts, Culture, Design et mode",2,Certificat,20,177
+4,Cuisine,"Tourisme, Hôtellerie et Restauration",2,Certificat,17,177
+5,Patisserie,"Tourisme, Hôtellerie et Restauration",1,Certificat,10,177
+1,Coupe couture,"Arts, Culture, Design et mode",2,Technique,30,282
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Technique,20,47
+2,Technique Informatique,Sciences Informatiques,2,Technique,25,47
+3,Secrétariat,Secrétariat,2,Technique,15-20,47
+1,Cosmétologie,"Arts, Culture, Design et mode",10 mois,Technique,1,100
+2,Technique Informatique,Dactylographie,1,Technique,2,100
+3,Anglais,Langues et Lettres,2 ans,Technique,4,100
+4,Espagnol,Langues et Lettres,2 ans,Technique,4,100
+5,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Technique,2,100
+6,Electricité,Métiers du bâtiment et autres,1,Technique,2,100
+7,Plomberie,Métiers du bâtiment et autres,1,Technique,2,100
+8,Construction Bâtiment,Métiers du bâtiment et autres,2,Technique,2,100
+9,Carrelage,Métiers du bâtiment et autres,6 mois,Technique,1,100
+10,Secrétariat,Secrétariat,2,Technique,2,100
+11,Secrétariat,Secrétariat,1,Technique,2,100
+1,Mécanique Auto - Diesel,Mécanique,2,Technique,20,45
+2,Electricité,Métiers du bâtiment et autres,2,Technique,10,45
+3,Plomberie,Métiers du bâtiment et autres,2,Technique,20,45
+4,Ebenisterie,Métiers du bâtiment et autres,2,Technique,31,45
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,20,186
+2,Technique Informatique,Sciences Informatiques,1,Certificat,14,186
+1,Auxiliaire,Santé et Professions médicales,-,Certificat,-,249
+1,Auxiliaire,Santé et Professions médicales,4,Diplome,30,251
+2,Sciences Infirmières,Santé et Professions médicales,4,Diplome,30,251
+1,Agronomie,Agriculture – Agroalimentaire,4 ans,Licence,200,187
+2,Technique Agricole,Agriculture – Agroalimentaire,2 ans,Diplome,200,187
+3,Chimie,Biologie/Chimie,4 ans,Licence,200,187
+4,Techniques Douanières,Douane,2 ans,Diplome,200,187
+5,Droit,Droit,4 ans,Licence,200,187
+6,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,200,187
+7,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,200,187
+8,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2 ans,Diplome,200,187
+9,Maths/Physique,Mathématiques/Physique,4 ans,Licence,200,187
+10,Sciences Infirmières,Santé et Professions médicales,4 ans,Licence,200,187
+11,Auxiliaire,Santé et Professions médicales,2 ans,Diplome,200,187
+12,Sciences de l'Education,Sciences de l’Education,4 ans,Licence,200,187
+13,Enseignement prescolaire et primaire,Sciences de l’Education,2 ans,Diplome,200,187
+14,Génie Civil,Sciences de l’Ingénieur,4 ans,Licence,200,187
+15,Génie Electromécanique,Sciences de l’Ingénieur,4 ans,Licence,200,187
+16,Topographie,Sciences de l’Ingénieur,2 ans,Diplome,200,187
+17,Génie Civil,Sciences de l’Ingénieur,2 ans,Diplome,200,187
+18,Diplomatie,Sciences économiques et politiques,4 ans,Licence,200,187
+19,Economie,Sciences économiques et politiques,4 ans,Licence,200,187
+20,Sciences du Développement,Sciences Humaines et Sociales,4 ans,Licence,200,187
+21,Sciences Informatiques,Sciences Informatiques,4,Licence,200,187
+22,Télécommunication,Sciences Informatiques,2 ans,Diplome,200,187
+23,Réseau,Sciences Informatiques,2 ans,Diplome,200,187
+24,Assistante Administrative,Secrétariat,2 ans,Diplome,200,187
+1,Technique Informatique,Sciences Informatiques,1,Technique,30,53
+1,Secrétariat,Secrétariat,2,Technique,20,61
+2,Assistante Administrative,Secrétariat,2,Diplome,24,61
+1,Technique Informatique,Sciences Informatiques,1,Technique,35,280
+1,Construction Bâtiment,Métiers du bâtiment et autres,3,Certificat,400,178
+2,Ferronnerie Soudure,Métiers du bâtiment et autres,3,Certificat,150,178
+3,Ebenisterie,Métiers du bâtiment et autres,3,Certificat,200,178
+4,Electricité,Métiers du bâtiment et autres,2,Certificat,10,178
+5,Plomberie,Métiers du bâtiment et autres,2,Certificat,20,178
+1,Sciences de l'Education,Sciences de l’Education,4,Licence,50,34
+2,Enseignement fondamental et secondaire,Sciences de l’Education,4 ans,Licence,50,34
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Certificat,10 à 15,179
+2,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",2,Certificat,10 à 15,179
+3,Technique Informatique,Sciences Informatiques,1,Certificat,10 à 15,179
+4,Secrétariat,Secrétariat,1,Certificat,10 à 15,179
+1,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,10,166
+2,Gestion de Projets,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,8,166
+3,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Licence,10,166
+4,Sciences de l'Education,Sciences de l’Education,4,Licence,8,166
+5,Relations Internationales,Sciences économiques et politiques,4,Diplome,15,166
+6,Economie,Sciences économiques et politiques,4,Licence,9,166
+1,Technique Agricole,Agriculture – Agroalimentaire,3,Technique,23,287
+2,Construction Bâtiment,Métiers du bâtiment et autres,3,Diplome,21,287
+3,Menuiserie,Métiers du bâtiment et autres,2 ans 6 mois,Technique,11,287
+1,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",3,Technique,7,65
+2,Construction Bâtiment,Métiers du bâtiment et autres,3,Technique,8,65
+3,Ebenisterie,Métiers du bâtiment et autres,3,Technique,7,65
+1,Mécanique Ajustage,Mécanique,2,Technique,20,39
+2,Electrotechnique/Electromecanique,Métiers du bâtiment et autres,2,Technique,85,39
+3,Réseau,Sciences Informatiques,2,Technique,106,39
+1,Cosmétologie,"Arts, Culture, Design et mode",1,Certificat,70,181
+2,Construction Bâtiment,Métiers du bâtiment et autres,2,Certificat,70,181
+3,Plomberie,Métiers du bâtiment et autres,2,Certificat,70,181
+4,Carrelage,Métiers du bâtiment et autres,1,Certificat,70,181
+5,Electronique/Autotronique,Métiers du bâtiment et autres,1,Certificat,70,181
+6,Electricité,Métiers du bâtiment et autres,2,Certificat,70,181
+7,Technique Informatique,Sciences Informatiques,2,Certificat,70,181
+1,Ferronnerie Soudure,Métiers du bâtiment et autres,2,Technique,15,38
+2,Electricité,Métiers du bâtiment et autres,2,Technique,24,38
+3,Ebenisterie,Métiers du bâtiment et autres,2,Technique,34,38
+4,Carrelage,Métiers du bâtiment et autres,2,Technique,23,38
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",3,Technique,15,267
+1,Cosmétologie,"Arts, Culture, Design et mode",1,Technique,20,307
+2,Coupe couture,"Arts, Culture, Design et mode",2,Technique,20,307
+3,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Certificat,20,307
+4,Dépannage d'ordinateurs,Sciences Informatiques,1,Technique,20,307
+5,Secrétariat,Secrétariat,2,Technique,20,307
+6,Cuisine,"Tourisme, Hôtellerie et Restauration",1,Technique,20,307
+7,Patisserie,"Tourisme, Hôtellerie et Restauration",1,Technique,20,307
+1,Cosmétologie,"Arts, Culture, Design et mode",1,Technique,7,298
+2,Mécanique automobile,Mécanique,2,Technique,10,298
+3,Mécanique Ajustage,Mécanique,2,Technique,9,298
+4,Plomberie,Métiers du bâtiment et autres,2,Technique,15,298
+5,Carrelage,Métiers du bâtiment et autres,2,Technique,9,298
+6,Charpenterie,Métiers du bâtiment et autres,2,Technique,10,298
+7,Ebenisterie,Métiers du bâtiment et autres,2,Technique,10,298
+8,Electricité,Métiers du bâtiment et autres,2,Technique,10,298
+9,Réfrigération,Métiers du bâtiment et autres,1,Technique,8,298
+10,Electronique/Autotronique,Métiers du bâtiment et autres,2 ans,Technique,8,298
+11,Cuisine,"Tourisme, Hôtellerie et Restauration",1,Technique,6,298
+12,Hôtellerie,"Tourisme, Hôtellerie et Restauration",2,Technique,15,298
+13,Patisserie,"Tourisme, Hôtellerie et Restauration",1,Technique,6,298
+1,Mécanique Ajustage,Mécanique,2 ans,Technique,20,213
+2,Mécanique Industrielle,Mécanique,2 ans,Technique,25,213
+3,Carrelage,Métiers du bâtiment et autres,2 ans,Technique,20,213
+4,Construction Bâtiment,Métiers du bâtiment et autres,2 ans,Technique,22,213
+5,Electricité,Métiers du bâtiment et autres,2 ans,Technique,23,213
+6,Electricité,Métiers du bâtiment et autres,2 ans,Technique,24,213
+7,Electrotechnique/Electromecanique,Métiers du bâtiment et autres,2 ans,Technique,22,213
+8,Plomberie,Métiers du bâtiment et autres,2 ans,Technique,22,213
+9,Réfrigération,Métiers du bâtiment et autres,2 ans,Technique,21,213
+1,Sciences Infirmières,Santé et Professions médicales,4,Diplome,32,102
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",-,Technique,-,40
+2,Technique Informatique,Sciences Informatiques,-,Technique,-,40
+3,Secrétariat,Secrétariat,-,Technique,-,40
+1,Techniques Douanières,Douane,1,Certificat,25,183
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Certificat,30,183
+3,Technique Informatique,Sciences Informatiques,1,Certificat,18,183
+4,Secrétariat,Secrétariat,2,Certificat,20,183
+1,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",10,Technique,39,140
+2,Techniques de génie civil,Métiers du bâtiment et autres,10,Technique,15,140
+3,Electrotechnique/Electromecanique,Métiers du bâtiment et autres,2,Technique,14,140
+4,Construction Bâtiment,Métiers du bâtiment et autres,2,Technique,44,140
+5,Télécommunication,Sciences de l’Ingénieur,2,Technique,101,140
+6,Technique Informatique,Sciences Informatiques,2,Technique,24,140
+1,Administration Scolaire,Sciences de l’Education,-,Diplome,-,57
+2,Pédagogie,Sciences de l’Education,-,Diplome,-,57
+3,Education Familiale et Sexologie,Sciences de l’Education,-,Diplome,-,57
+4,Sciences de l'Education,Sciences de l’Education,-,Licence,-,57
+5,Administration Scolaire,Sciences de l’Education,-,Master 1,-,57
+6,Pédagogie,Sciences de l’Education,-,Master 1,-,57
+7,Pédagogie,Sciences de l’Education,-,Master 1,-,57
+8,Education Familiale et Sexologie,Sciences de l’Education,-,Certificat,-,57
+1,Planification,"Architecture, Urbanisme et Aménagement du territoire",4,Licence,20,30
+2,Statistiques,Sciences économiques et politiques,4,Licence,15,30
+3,Economie,Sciences économiques et politiques,4,Licence,30,30
+1,Technique Informatique,Sciences Informatiques,1,Certificat,50 à 70,184
+1,Techniques Douanières,Douane,2 ans,Technique,12,185
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Certificat,20,185
+3,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",2,Certificat,15,185
+4,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",2 ans,Technique,19,185
+5,Marketing,Marketing,2 ans,Technique,20,185
+6,Mécanique Auto - Diesel,Mécanique,3,Certificat,18,185
+7,Construction Bâtiment,Métiers du bâtiment et autres,3,Certificat,10,185
+8,Electricité,Métiers du bâtiment et autres,2,Certificat,12,185
+9,Plomberie,Métiers du bâtiment et autres,1,Certificat,17,185
+10,Electrotechnique/Electromecanique,Métiers du bâtiment et autres,3 ans,Technique,10,185
+11,Technique Informatique,Sciences Informatiques,3,Certificat,20,185
+12,Secrétariat,Secrétariat,2,Certificat,15,185
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Certificat,16,317
+2,Carrelage,Métiers du bâtiment et autres,3 mois,Technique,20,317
+3,Plomberie,Métiers du bâtiment et autres,3 mois,Technique,20,317
+4,Technique Informatique,Sciences Informatiques,9 mois,Technique,25,317
+1,Sciences Infirmières,Santé et Professions médicales,4,Diplome,19,242
+1,Mécanique Ajustage,Mécanique,3,Technique,25,60
+2,Construction Bâtiment,Métiers du bâtiment et autres,3 ans,Technique,35,60
+3,Electricité,Métiers du bâtiment et autres,3 ans,Technique,20,60
+4,Ebenisterie,Métiers du bâtiment et autres,3 ans,Technique,30,60
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,50-60,372
+1,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,30-40,50
+2,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,20-25,50
+3,Marketing,Marketing,2,Diplome,30-35,50
+4,Diplomatie,Sciences économiques et politiques,4,Licence,20-25,50
+5,Sciences politiques,Sciences économiques et politiques,4,Licence,25-30,50
+6,Relations Internationales,Sciences économiques et politiques,2,Diplome,15-20,50
+1,Coupe couture,"Arts, Culture, Design et mode",2,Technique,10-20,294
+2,Electricité,Métiers du bâtiment et autres,2,Technique,10-20,294
+3,Plomberie,Métiers du bâtiment et autres,2,Technique,10-20,294
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Technique,21,286
+2,Ticketing,Métiers de l'air,1,Technique,23,286
+3,Réseau,Sciences Informatiques,2,Technique,10,286
+4,Dépannage d'ordinateurs,Sciences Informatiques,1,Technique,15,286
+5,Secrétariat,Secrétariat,2,Technique,20,286
+1,Artisanat,"Arts, Culture, Design et mode",1,Technique,10,79
+1,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",2,Certificat,30,85
+2,Broderie,"Arts, Culture, Design et mode",2,Certificat,15,85
+3,Cuisine,"Tourisme, Hôtellerie et Restauration",2,Certificat,20,85
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Technique,30,92
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,44,344
+1,Décoration et Architecture d’intérieur,"Arts, Culture, Design et mode",3,Technique,7,90
+2,Mécanique Auto - Diesel,Mécanique,3,Technique,30,90
+3,Mécanique automobile,Mécanique,3,Technique,8,90
+4,Plomberie,Métiers du bâtiment et autres,3,Technique,20,90
+5,Réfrigération,Métiers du bâtiment et autres,1 an,Technique,26,90
+6,Génie Electronique,Sciences de l’Ingénieur,3 ans,Technique,46,90
+7,Télécommunication,Sciences Informatiques,2,Technique,21,90
+8,Technique Informatique,Sciences Informatiques,1,Technique,2,90
+1,Coupe couture,"Arts, Culture, Design et mode",2,Technique,20,88
+2,Cosmétologie,"Arts, Culture, Design et mode",10 mois,Technique,40,88
+3,Mécanique Ajustage,Mécanique,2,Technique,30,88
+4,Mécanique Auto - Diesel,Mécanique,2,Technique,35,88
+5,Ferronnerie Soudure,Métiers du bâtiment et autres,2,Technique,36,88
+6,Electricité,Métiers du bâtiment et autres,2,Technique,32,88
+7,Charpenterie,Métiers du bâtiment et autres,2,Technique,25,88
+8,Carrelage,Métiers du bâtiment et autres,4 mois,Technique,35,88
+9,Réfrigération,Métiers du bâtiment et autres,2,Technique,25,88
+10,Construction Bâtiment,Métiers du bâtiment et autres,2,Technique,40,88
+11,Electronique/Autotronique,Métiers du bâtiment et autres,10 mois,Technique,30,88
+12,Plomberie,Métiers du bâtiment et autres,10 mois,Technique,30,88
+13,Ebenisterie,Métiers du bâtiment et autres,10 mois,Technique,30,88
+1,Réfrigération,Métiers du bâtiment et autres,1,Technique,10,321
+2,Electricité,Métiers du bâtiment et autres,1,Technique,15,321
+1,Secrétariat,Secrétariat,2,Diplome,25,323
+1,Technique Informatique,Sciences Informatiques,1,Technique,20,296
+2,Secrétariat,Secrétariat,2,Technique,20,296
+1,Cosmétologie,"Arts, Culture, Design et mode",1,Technique,13,315
+2,Coupe couture,"Arts, Culture, Design et mode",3,Technique,12,315
+3,Dépannage d'ordinateurs,Sciences Informatiques,1,Technique,14,315
+4,Cuisine,"Tourisme, Hôtellerie et Restauration",1,Technique,15,315
+1,Infographie,Sciences Informatiques,1,Technique,20 - 25,269
+2,Dépannage d'ordinateurs,Sciences Informatiques,1,Technique,30,269
+3,Technique Informatique,Sciences Informatiques,1,Technique,70,269
+1,Technique Informatique,Sciences Informatiques,1,Technique,32,94
+1,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",1,Technique,22,120
+2,Cosmétologie,"Arts, Culture, Design et mode",1 an,Technique,17,120
+3,Cuisine,"Tourisme, Hôtellerie et Restauration",1,Technique,23,120
+4,Patisserie,"Tourisme, Hôtellerie et Restauration",1,Technique,17,120
+1,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",2,Certificat,20,192
+2,Cuisine,"Tourisme, Hôtellerie et Restauration",2,Certificat,20,192
+3,Patisserie,"Tourisme, Hôtellerie et Restauration",2,Certificat,25,192
+1,Mécanique Auto - Diesel,Mécanique,2,Technique,10,96
+2,Electricité,Métiers du bâtiment et autres,2,Technique,8,96
+3,Carrelage,Métiers du bâtiment et autres,1,Technique,7,96
+4,Cuisine,"Tourisme, Hôtellerie et Restauration",1,Technique,10,96
+5,Patisserie,"Tourisme, Hôtellerie et Restauration",1,Technique,10,96
+1,Mécanique automobile,Mécanique,2 ans,Technique,10,265
+2,Construction Bâtiment,Métiers du bâtiment et autres,2 ans,Technique,20,265
+1,Mécanique Ajustage,Mécanique,2,Technique,20,297
+2,Technique Informatique,Sciences Informatiques,1,Technique,25-30,297
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Technique,20,25
+2,Technique Informatique,Sciences Informatiques,2,Diplome,20,25
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,67,193
+2,Technique Informatique,Sciences Informatiques,2,Diplome,54,193
+3,Assistante Administrative,Secrétariat,2,Diplome,8,193
+4,Secrétariat,Secrétariat,2,Diplome,13,193
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,7,98
+2,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,5,98
+3,Mécanique Auto - Diesel,Mécanique,3,Diplome,70,98
+4,Electronique/Autotronique,Métiers du bâtiment et autres,2,Diplome,5,98
+5,Electricité,Métiers du bâtiment et autres,2,Diplome,30,98
+6,Plomberie,Métiers du bâtiment et autres,2,Diplome,16,98
+7,Réfrigération,Métiers du bâtiment et autres,2,Diplome,45,98
+8,Sciences Infirmières,Santé et Professions médicales,4 ans,Licence,40,98
+9,Technologie médicale,Santé et Professions médicales,3 ans,Diplome,20,98
+10,Technique Informatique,Sciences Informatiques,10 mois,Diplome,10,98
+11,Réseau,Sciences Informatiques,2 ans,Diplome,10,98
+12,Secrétariat,Secrétariat,2 ans,Diplome,10,98
+1,Mécanique Ajustage,Mécanique,2,Technique,20,99
+2,Electronique/Autotronique,Métiers du bâtiment et autres,2,Technique,15,99
+3,Electricité,Métiers du bâtiment et autres,2,Technique,10,99
+1,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,298,58
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,158,58
+3,Gestion Financière,"Management/Gestion, Finance, Comptabilité et Commerce",2,Licence,456,58
+4,Marketing,Marketing,4,Licence,59,58
+5,Marketing,Marketing,2 ans,Technique,165,58
+6,Sciences Informatiques,Sciences Informatiques,4,Licence,189,58
+7,Assistante Administrative,Secrétariat,1,Diplome,169,58
+8,Logistique,Transport et Logistique,1,Diplome,36,58
+1,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,33,55
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,118,55
+3,Gestion des ONG,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,17,55
+4,Gestion de Projets,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,7,55
+5,Finance et Banque,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,2,55
+1,Chimie,Biologie/Chimie,2,Diplome,25,62
+2,Chimie,Biologie/Chimie,3,Licence,30,62
+1,Techniques Douanières,Douane,12 mois,Technique,50,173
+2,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",12 mois,Technique,50,173
+3,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",18 mois,Technique,50,173
+4,Mécanique Auto - Diesel,Mécanique,18 mois,Technique,50,173
+5,Réfrigération,Métiers du bâtiment et autres,12 mois,Technique,50,173
+6,Plomberie,Métiers du bâtiment et autres,12 mois,Technique,50,173
+7,Carrelage,Métiers du bâtiment et autres,12 mois,Technique,50,173
+8,Technique Informatique,Sciences Informatiques,1,Technique,50,173
+9,Dépannage d'ordinateurs,Sciences Informatiques,6 mois,Technique,50,173
+10,Infographie,Sciences Informatiques,4 mois,Technique,50,173
+11,Secrétariat,Secrétariat,24 mois,Technique,50,173
+12,Secrétariat,Secrétariat,12 mois,Technique,50,173
+1,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",3 ans,Licence,20 @ 25,76
+2,Sciences de l'Education,Sciences de l’Education,4 ans,Licence,17,76
+3,Théologie,Sciences Humaines et Sociales,4 ans,Licence,5,76
+1,Technique Informatique,Sciences Informatiques,-,Technique,-,103
+1,Mécanique automobile,Mécanique,3 ans,Diplome,93,194
+2,Construction Bâtiment,Métiers du bâtiment et autres,2 ans,Diplome,46,194
+3,Electrotechnique/Electromecanique,Métiers du bâtiment et autres,3 ans,Diplome,56,194
+4,Plomberie,Métiers du bâtiment et autres,1,Certificat,30,194
+5,Electricité,Métiers du bâtiment et autres,1,Certificat,88,194
+6,Arts ménagers,"Tourisme, Hôtellerie et Restauration",1,Certificat,120,194
+1,Haute Couture,"Arts, Culture, Design et mode",-,Technique,-,104
+2,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",-,Technique,-,104
+3,Cuisine,"Tourisme, Hôtellerie et Restauration",-,Technique,-,104
+4,Patisserie,"Tourisme, Hôtellerie et Restauration",-,Technique,-,104
+1,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",2,Technique,20,108
+1,Mécanique Auto - Diesel,Mécanique,2,Technique,102,109
+2,Injection à Essence,Mécanique,2,Technique,100,109
+1,Travaux du cuir,"Arts, Culture, Design et mode",2,Technique,20,110
+2,Artisanat,"Arts, Culture, Design et mode",2,Technique,22,110
+3,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",2,Technique,25,110
+4,Topographie,Sciences de l’Ingénieur,2,Technique,20,110
+5,Dessin Industriel,Sciences Informatiques,2,Technique,20,110
+1,Artisanat,Artisanat,2,Technique,30,281
+2,Charpenterie,Métiers du bâtiment et autres,2,Technique,25,281
+3,Restauration,"Tourisme, Hôtellerie et Restauration",2,Technique,30,281
+1,Sciences Infirmières,Santé et Professions médicales,4,Certificat,30,260
+2,Technologie médicale,Santé et Professions médicales,3,Certificat,25,260
+1,Auxiliaire,Santé et Professions médicales,2 ans,Technique,10,75
+1,Auxiliaire,Santé et Professions médicales,2,Certificat,25,252
+2,Sciences Infirmières,Santé et Professions médicales,4 ans,Technique,30,252
+1,Auxiliaire,Santé et Professions médicales,2,Diplome,16,247
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Technique,30,367
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,40,364
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Certificat,20,135
+2,Technique Informatique,Sciences Informatiques,1,Certificat,15,135
+3,Secrétariat,Secrétariat,2,Technique,18,135
+1,Technique Informatique,Sciences Informatiques,1,Technique,25-30,300
+1,Gestion de Projets,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,93,264
+2,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,60,264
+3,Entrepreneuriat,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,71,264
+4,Restauration,"Tourisme, Hôtellerie et Restauration",2,Diplome,96,264
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,15,171
+2,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",2,Technique,15,171
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,-,171
+4,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",1,Technique,-,171
+5,Marketing,Marketing,2,Technique,-,171
+6,Auxiliaire,Santé et Professions médicales,2,Diplome,60,171
+7,Sciences Infirmières,Santé et Professions médicales,4,Licence,-,171
+8,Technique Informatique,Sciences Informatiques,1,Technique,-,171
+9,Assistante Administrative,Secrétariat,1,Technique,-,171
+10,Secrétariat,Secrétariat,2,Technique,-,171
+1,Secrétariat,Secrétariat,3,Technique,40,28
+1,Secrétariat,Secrétariat,3 ans,Diplome,10 a 35,29
+1,Coupe couture,"Arts, Culture, Design et mode",3,Diplome,10 à 30,197
+2,Cuisine,"Tourisme, Hôtellerie et Restauration",1,Diplome,10 à 30,197
+3,Patisserie,"Tourisme, Hôtellerie et Restauration",1,Diplome,10 à 30,197
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,50,346
+1,Technique Agricole,Agriculture – Agroalimentaire,2,Certificat,45,234
+2,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",2,Certificat,55,234
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,40,368
+1,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",2,Technique,18,142
+2,Cuisine,"Tourisme, Hôtellerie et Restauration",1,Technique,20,142
+1,Restauration,"Tourisme, Hôtellerie et Restauration",1,Technique,193,172
+2,Cuisine,"Tourisme, Hôtellerie et Restauration",1,Technique,193,172
+3,Hôtellerie,"Tourisme, Hôtellerie et Restauration",1,Technique,193,172
+4,Tourisme,"Tourisme, Hôtellerie et Restauration",1,Technique,193,172
+1,Droit,Droit,2 ans,Diplome,60,271
+2,Langues vivantes,Langues et Lettres,2 ans,Diplome,60,271
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",2 ans,Diplome,60,271
+4,Nutrition,Santé et Professions médicales,2 ans,Diplome,60,271
+5,Technique Informatique,Sciences Informatiques,2 ans,Diplome,60,271
+6,Cuisine,"Tourisme, Hôtellerie et Restauration",2 ans,Diplome,60,271
+7,Restauration,"Tourisme, Hôtellerie et Restauration",2 ans,Diplome,60,271
+8,Patisserie,"Tourisme, Hôtellerie et Restauration",2 ans,Diplome,60,271
+9,Tourisme,"Tourisme, Hôtellerie et Restauration",2 ans,Diplome,60,271
+10,Cuisine,"Tourisme, Hôtellerie et Restauration",1 an,Certificat,60,271
+11,Restauration,"Tourisme, Hôtellerie et Restauration",1 an,Certificat,60,271
+12,Patisserie,"Tourisme, Hôtellerie et Restauration",1 an,Certificat,60,271
+1,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",3,Technique,15,143
+2,Art - Floral,"Arts, Culture, Design et mode",10,Technique,5,143
+3,Décoration et Architecture d’intérieur,"Arts, Culture, Design et mode",10 mois,Technique,11,143
+4,Cuisine,"Tourisme, Hôtellerie et Restauration",10,Technique,30,143
+5,Patisserie,"Tourisme, Hôtellerie et Restauration",10,Technique,8,143
+1,Technologie médicale,Santé et Professions médicales,-,Certificat,-,259
+1,Coupe couture,"Arts, Culture, Design et mode",2 ans,Technique,3,326
+2,Mécanique Auto - Diesel,Mécanique,2 ans,Technique,3,326
+3,Ebenisterie,Métiers du bâtiment et autres,2 ans,Technique,3,326
+4,Ferronnerie Soudure,Métiers du bâtiment et autres,2 ans,Technique,4,326
+5,Technique Informatique,Sciences Informatiques,1 an,Technique,4,326
+1,Droit,Droit,2,Technique,24,33
+2,Finance et Banque,"Management/Gestion, Finance, Comptabilité et Commerce",2,Technique,20,33
+3,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Technique,21,33
+4,Economie,Sciences économiques et politiques,2,Technique,20,33
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Technique,59,347
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,55,348
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,124,349
+1,Environnement,Environnement et Sciences de la Terre,4,Licence,20,35
+2,Géologie Appliquée,Géologie,4,Licence,30,35
+3,Etude des Eaux de Surface,Géologie,4,Licence,15,35
+4,Etude des Eaux souterraines,Géologie,4,Licence,15,35
+5,Mécanique des Sols,Géologie,4,Licence,20,35
+6,Mécanique des Roches,Géologie,4,Licence,20,35
+7,Matériaux de Construction,Géologie,4,Licence,20,35
+1,Arts plastiques,"Arts, Culture, Design et mode",4 ans,Technique,40,32
+1,Mécanique Industrielle,Mécanique,2 ans,Technique,-,144
+2,Mécanique Auto - Diesel,Mécanique,2 ans,Technique,-,144
+3,Electronique/Autotronique,Métiers du bâtiment et autres,2,Technique,-,144
+4,Electrotechnique/Electromecanique,Métiers du bâtiment et autres,2 ans,Technique,-,144
+5,Réseau,Sciences Informatiques,2 ans,Technique,-,144
+6,Secrétariat,Secrétariat,2 ans,Certificat,-,144
+1,Sciences Infirmières,Santé et Professions médicales,4,Diplome,102,36
+1,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",3,Licence,38,37
+1,Coupe couture,"Arts, Culture, Design et mode",1,Technique,11,145
+2,Mécanique automobile,Mécanique,2,Technique,18,145
+3,Electricité,Métiers du bâtiment et autres,2,Technique,29,145
+4,Ebenisterie,Métiers du bâtiment et autres,2,Technique,17,145
+5,Plomberie,Métiers du bâtiment et autres,2,Technique,23,145
+6,Secrétariat,Secrétariat,2,Technique,26,145
+1,Chimie,Biologie/Chimie,4,Licence,34,20
+2,Langues vivantes,Langues et Lettres,4,Licence,34,20
+3,Lettres,Langues et Lettres,4,Licence,34,20
+4,Maths/Physique,Mathématiques/Physique,4,Licence,34,20
+5,Enseignement fondamental et secondaire,Sciences de l’Education,4,Licence,34,20
+6,Philosophie,Sciences Humaines et Sociales,4,Licence,34,20
+7,Sciences Sociales,Sciences Humaines et Sociales,4,Licence,34,20
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Technique,80,350
+1,Coupe - Confect. masculine,"Arts, Culture, Design et mode",-,Technique,-,151
+2,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",-,Technique,-,151
+3,Artisanat,"Arts, Culture, Design et mode",-,Technique,-,151
+4,Mécanique Auto - Diesel,Mécanique,-,Technique,-,151
+5,Mécanique Ajustage,Mécanique,-,Technique,-,151
+6,Ebenisterie,Métiers du bâtiment et autres,-,Technique,-,151
+7,Dessin Industriel,Sciences Informatiques,-,Technique,-,151
+8,Télécommunication,Sciences Informatiques,-,Technique,-,151
+1,Mécanique automobile,Mécanique,2,Technique,12-20,158
+2,Plomberie,Métiers du bâtiment et autres,2,Technique,18,158
+3,Cuisine,"Tourisme, Hôtellerie et Restauration",-,Technique,-,158
+1,Coupe couture,"Arts, Culture, Design et mode",2,Technique,30,160
+2,Mécanique automobile,Mécanique,2,Technique,25,160
+3,Mécanique Ajustage,Mécanique,2,Technique,45,160
+4,Construction Bâtiment,Métiers du bâtiment et autres,2,Technique,48,160
+5,Electricité,Métiers du bâtiment et autres,2,Technique,30,160
+6,Ebenisterie,Métiers du bâtiment et autres,2,Technique,40,160
+7,Télécommunication,Sciences Informatiques,2,Technique,50,160
+1,Construction Bâtiment,Métiers du bâtiment et autres,2 ans,Technique,12,161
+2,Ebenisterie,Métiers du bâtiment et autres,2 ans,Technique,15,161
+3,Plomberie,Métiers du bâtiment et autres,2,Technique,10,161
+4,Technique Informatique,Sciences Informatiques,1,Technique,17 @ 20,161
+5,Arts ménagers,"Tourisme, Hôtellerie et Restauration",2,Technique,10-17,161
+1,Construction Bâtiment,Métiers du bâtiment et autres,2 ans,Technique,6,198
+1,Mécanique Ajustage,Mécanique,2,Technique,17-20,328
+2,Construction Bâtiment,Métiers du bâtiment et autres,2,Technique,25-30,328
+1,Construction Bâtiment,Métiers du bâtiment et autres,2,Technique,25,329
+2,Electricité,Métiers du bâtiment et autres,2,Technique,34,329
+1,Technique Informatique,Sciences Informatiques,1,Technique,15,309
+2,Dépannage d'ordinateurs,Sciences Informatiques,18 mois,Technique,20,309
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2 ans,Technique,10,375
+2,Construction Bâtiment,Métiers du bâtiment et autres,2 ans,Technique,10,375
+3,Technique Informatique,Sciences Informatiques,3,Technique,10,375
+4,Technique Informatique,Sciences Informatiques,24 mois,Technique,10,375
+1,Technique Agricole,Agriculture – Agroalimentaire,3,Diplome,30 - 35,149
+2,Coupe couture,"Arts, Culture, Design et mode",2,Diplome,10 - 20,149
+3,- - Non-defini - -,Electricité,2,Diplome,10 - 20,149
+4,Mécanique Ajustage,Mécanique,2,Diplome,10 - 20,149
+5,Mécanique Auto - Diesel,Mécanique,2,Diplome,10 - 20,149
+6,Ebenisterie,Métiers du bâtiment et autres,2,Diplome,10 - 20,149
+7,Construction Bâtiment,Métiers du bâtiment et autres,2,Diplome,10 - 20,149
+1,Coupe - Confect. masculine,"Arts, Culture, Design et mode",2,Technique,15-20,162
+2,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",2,Technique,15-20,162
+3,Mécanique Auto - Diesel,Mécanique,3,Technique,15-20,162
+4,Plomberie,Métiers du bâtiment et autres,2,Technique,15-20,162
+5,Réfrigération,Métiers du bâtiment et autres,2,Technique,15-20,162
+6,Electricité,Métiers du bâtiment et autres,2,Technique,15-20,162
+7,Informatique de Gestion,Sciences Informatiques,3,Technique,15-20,162
+1,Coupe - Confect. masculine,"Arts, Culture, Design et mode",2,Technique,17,163
+2,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",2,Technique,15,163
+3,Anglais,Langues et Lettres,1,Technique,15,163
+4,Français Langue étrangère (FLE),Langues et Lettres,1,Technique,16,163
+5,Espagnol,Langues et Lettres,1,Technique,15,163
+6,Physique,Mathématiques/Physique,2,Technique,15,163
+7,Mécanique Auto - Diesel,Mécanique,2,Technique,19,163
+8,Construction Bâtiment,Métiers du bâtiment et autres,2,Technique,20,163
+9,Ferronnerie Soudure,Métiers du bâtiment et autres,2,Technique,16,163
+10,Electronique/Autotronique,Métiers du bâtiment et autres,2,Technique,13,163
+11,Electricité,Métiers du bâtiment et autres,2,Technique,16,163
+12,Plomberie,Métiers du bâtiment et autres,2,Technique,15,163
+13,Ebenisterie,Métiers du bâtiment et autres,2,Technique,14,163
+1,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",3,Technique,23,164
+2,Broderie,"Arts, Culture, Design et mode",3,Technique,20,164
+3,Construction Bâtiment,Métiers du bâtiment et autres,3,Technique,25,164
+4,Electricité,Métiers du bâtiment et autres,3,Technique,25,164
+5,Ebenisterie,Métiers du bâtiment et autres,3,Technique,20,164
+6,Cuisine,"Tourisme, Hôtellerie et Restauration",3,Technique,16,164
+7,Patisserie,"Tourisme, Hôtellerie et Restauration",3,Technique,18,164
+1,Artisanat,"Arts, Culture, Design et mode",1,Technique,20,157
+2,Coupe couture,"Arts, Culture, Design et mode",2 ans,Technique,30,157
+3,Construction Bâtiment,Métiers du bâtiment et autres,2,Technique,25,157
+4,Electricité,Métiers du bâtiment et autres,1,Technique,19,157
+1,Plomberie,Métiers du bâtiment et autres,1,Technique,20,270
+2,Réfrigération,Métiers du bâtiment et autres,1,Technique,20,270
+3,Electricité,Métiers du bâtiment et autres,1,Technique,20,270
+4,Dépannage d'ordinateurs,Sciences Informatiques,1,Technique,20,270
+1,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",2,Certificat,30,199
+1,Techniques Douanières,Douane,1,Certificat,14,200
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,15,200
+3,Gestion des ONG,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,12,200
+4,Electricité Auto,Mécanique,2,Certificat,16,200
+5,Mécanique automobile,Mécanique,2,Certificat,12,200
+6,Construction Bâtiment,Métiers du bâtiment et autres,2,Certificat,17,200
+7,Ferronnerie Soudure,Métiers du bâtiment et autres,2,Certificat,13,200
+8,Electronique/Autotronique,Métiers du bâtiment et autres,2,Certificat,17,200
+9,Plomberie,Métiers du bâtiment et autres,2,Certificat,11,200
+10,Réfrigération,Métiers du bâtiment et autres,2,Certificat,13,200
+11,Ebenisterie,Métiers du bâtiment et autres,2,Certificat,15,200
+12,Technique Informatique,Sciences Informatiques,1,Certificat,14,200
+1,Mécanique Auto - Diesel,Mécanique,2,Technique,15,335
+2,Electricité Auto,Mécanique,2,Technique,30,335
+3,Electrotechnique/Electromecanique,Métiers du bâtiment et autres,2,Technique,30,335
+1,Arts plastiques,"Arts, Culture, Design et mode",3,Technique,20-40,156
+2,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",3,Technique,20-40,156
+3,Art - Floral,"Arts, Culture, Design et mode",3,Technique,20-40,156
+4,Broderie,"Arts, Culture, Design et mode",3,Technique,20-40,156
+5,Cuisine,"Tourisme, Hôtellerie et Restauration",3,Technique,20-40,156
+1,Coupe couture,"Arts, Culture, Design et mode",2,Technique,53,312
+2,Plomberie,Métiers du bâtiment et autres,2,Technique,16,312
+3,Electricité,Métiers du bâtiment et autres,2,Technique,26,312
+4,Cuisine,"Tourisme, Hôtellerie et Restauration",1,Technique,60,312
+1,Sciences Infirmières,Santé et Professions médicales,4,Diplome,30-40,243
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Master 1,38,1
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",3,Licence,38,1
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Master 1,38,1
+4,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",3,Licence,38,1
+5,Sciences Informatiques,Sciences Informatiques,4,Master 1,90,1
+6,Sciences Informatiques,Sciences Informatiques,3,Licence,90,1
+1,Construction Bâtiment,Métiers du bâtiment et autres,2,Technique,33,236
+2,Hôtellerie,"Tourisme, Hôtellerie et Restauration",2,Technique,23,236
+1,Construction Bâtiment,Métiers du bâtiment et autres,2,Technique,20,303
+2,Electricité,Métiers du bâtiment et autres,2,Technique,15,303
+3,Plomberie,Métiers du bâtiment et autres,2,Technique,25,303
+1,Technique Informatique,Dactylographie,-,Technique,-,152
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",-,Technique,-,152
+3,Technique Informatique,Sciences Informatiques,-,Technique,-,152
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,26,216
+2,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,40,216
+3,Secrétariat,Secrétariat,2,Diplome,10,216
+4,Secrétariat,Secrétariat,2,Diplome,12,216
+1,Production Animale ou Zootechnie,Agriculture – Agroalimentaire,3,Diplome,5,19
+2,Economie rurale,Agriculture – Agroalimentaire,3,Diplome,66,19
+3,Génie Rural,Agriculture – Agroalimentaire,4,Diplome,20,19
+4,Technologie Alimentaire,Agriculture – Agroalimentaire,3,Diplome,20,19
+5,Production végétale,Agriculture – Agroalimentaire,3,Diplome,20,19
+6,Développement rural,Agriculture – Agroalimentaire,3,Diplome,66,19
+1,Psychologie,Sciences Humaines et Sociales,4,Licence,80,16
+2,Anthropologie,Sciences Humaines et Sociales,4,Licence,20,16
+3,Sociologie,Sciences Humaines et Sociales,4,Licence,80,16
+4,Sciences du Développement,Sciences Humaines et Sociales,4,Master 1,10,16
+1,Droit,Droit,4,Licence,194,12
+2,Administration judiciaire,Droit,4 ans,Master 1,100,12
+3,Economie,Sciences économiques et politiques,4,Licence,147,12
+1,Linguistique,Langues et Lettres,4,Licence,70,13
+1,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,100,14
+2,Médecine Générale,Santé et Professions médicales,7,Diplome,50,14
+3,Pharmacie,Santé et Professions médicales,3,Diplome,40,14
+4,Technologie médicale,Santé et Professions médicales,3,Diplome,30,14
+1,Architecture,"Architecture, Urbanisme et Aménagement du territoire",5,Licence,15,11
+2,Chimie,Biologie/Chimie,4,Licence,5,11
+3,Génie Electromécanique,Sciences de l’Ingénieur,5,Licence,15,11
+4,Génie Electronique,Sciences de l’Ingénieur,5,Licence,15,11
+5,Génie Civil,Sciences de l’Ingénieur,5,Licence,15,11
+6,Topographie,Sciences de l’Ingénieur,2,Diplome,15,11
+1,Génie Civil,Sciences de l’Ingénieur,5,Diplome,350,64
+2,Génie Electromécanique,Sciences de l’Ingénieur,5,Diplome,200,64
+3,Génie Electronique,Sciences de l’Ingénieur,5,Diplome,170,64
+1,Communication,Communication et Journalisme,4,Licence,5,17
+2,Psychologie,Sciences Humaines et Sociales,4,Licence,15,17
+3,Sociologie,Sciences Humaines et Sociales,4,Licence,40,17
+4,Service Social,Sciences Humaines et Sociales,4,Licence,60,17
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,16,362
+1,Chirurgien-Dentiste,Santé et Professions médicales,5,Licence,15,15
+1,Cuisine,"Tourisme, Hôtellerie et Restauration",-,Certificat,-,202
+2,Patisserie,"Tourisme, Hôtellerie et Restauration",-,Certificat,-,202
+1,Coupe couture,"Arts, Culture, Design et mode",2,Diplome,40 @ 50,150
+2,Haute Couture,"Arts, Culture, Design et mode",2,Diplome,40 @ 50,150
+3,Art - Floral,"Arts, Culture, Design et mode",2,Diplome,40 @ 50,150
+4,Cuisine,"Tourisme, Hôtellerie et Restauration",2,Diplome,40 @ 50,150
+5,Patisserie,"Tourisme, Hôtellerie et Restauration",2,Diplome,40 @ 50,150
+6,Restauration,"Tourisme, Hôtellerie et Restauration",2,Diplome,40 @ 50,150
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2 ans,Technique,40-60,299
+2,Gestion des Ressources Humaines,"Management/Gestion, Finance, Comptabilité et Commerce",2 ans,Technique,40-60,299
+3,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Diplome,30-40,299
+4,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Diplome,20-30,299
+5,Finance et Banque,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Diplome,30,299
+6,Marketing,Marketing,18 mois,Technique,40-60,299
+7,Génie Civil,Sciences de l’Ingénieur,5 ans,Licence,40,299
+8,Technique Informatique,Sciences Informatiques,2,Technique,40-60,299
+9,Télécommunication,Sciences Informatiques,2,Technique,40-60,299
+10,Dépannage d'ordinateurs,Sciences Informatiques,1,Technique,40-60,299
+11,Technique Informatique,Sciences Informatiques,6 mois,Technique,40-60,299
+12,Réseau et Télécommunications,Sciences Informatiques,5 ans,Licence,50,299
+13,Sciences Informatiques,Sciences Informatiques,5 ans,Technique,30-50,299
+1,Technique Informatique,Sciences Informatiques,3-6 mois,Technique,30-50,147
+1,Théologie,Sciences Humaines et Sociales,4 ans,Technique,30,83
+1,Auxiliaire,Santé et Professions médicales,2 ans,Technique,25,351
+2,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,52,351
+3,Pharmacie,Santé et Professions médicales,2 ans,Certificat,5,351
+4,- - Non-defini - -,Santé et Professions médicales,2 ans,Technique,15,351
+1,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",2 ans,Technique,40,377
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2 ans,Technique,60-70,377
+3,Secrétariat,Secrétariat,2 ans,Technique,100,377
+4,Assistante Administrative,Secrétariat,2 ans,Technique,50,377
+1,Sciences Infirmières,Santé et Professions médicales,4,Diplome,60,263
+2,Auxiliaire,Santé et Professions médicales,2 ans,Technique,80,263
+3,Technologie médicale,Santé et Professions médicales,3 ans,Technique,50,263
+4,Médecine communautaire,Santé et Professions médicales,1 an,Technique,30,263
+5,Pharmacie,Santé et Professions médicales,2 ans,Technique,30,263
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Technique,40,369
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Technique,32,356
+1,Secrétariat,Secrétariat,-,Technique,-,136
+1,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",-,Technique,-,132
+2,Technique Informatique,Dactylographie,-,Technique,-,132
+3,Electricité,Métiers du bâtiment et autres,-,Technique,-,132
+4,Cuisine,"Tourisme, Hôtellerie et Restauration",-,Technique,-,132
+1,Sciences Infirmières,Santé et Professions médicales,4,Certificat,15,255
+1,Sciences Infirmières,Santé et Professions médicales,4,Certificat,25,244
+2,Auxiliaire,Santé et Professions médicales,2,Certificat,12 à 15,244
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Technique,15-20,131
+2,Technique Informatique,Sciences Informatiques,2,Technique,25,131
+3,Secrétariat,Secrétariat,2,Diplome,20,131
+1,Agronomie,Agriculture – Agroalimentaire,5,Licence,35,217
+2,Technique Agricole,Agriculture – Agroalimentaire,2,Certificat,27,217
+3,Environnement,Environnement et Sciences de la Terre,4,Diplome,35,217
+4,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,60,217
+5,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,70,217
+6,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",1,Certificat,20,217
+7,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Certificat,26,217
+8,Sciences Infirmières,Santé et Professions médicales,4,Diplome,30,217
+9,Administration Scolaire,Sciences de l’Education,4,Diplome,40,217
+10,Technique Informatique,Sciences Informatiques,1,Certificat,16,217
+11,Assistante Administrative,Secrétariat,2,Certificat,18,217
+12,Secrétariat,Secrétariat,2,Certificat,27,217
+1,Hôtellerie,"Tourisme, Hôtellerie et Restauration",18 mois,Technique,30,235
+2,Tourisme,"Tourisme, Hôtellerie et Restauration",18 mois,Technique,41,235
+3,Patisserie,"Tourisme, Hôtellerie et Restauration",18 mois,Technique,40,235
+1,Secrétariat,Secrétariat,2,Technique,20,308
+2,Hôtellerie,"Tourisme, Hôtellerie et Restauration",2,Technique,15,308
+1,Aménagement du territoire,"Architecture, Urbanisme et Aménagement du territoire",4,Licence,25,275
+2,Gouvernance,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,15,275
+3,Finance et Banque,"Management/Gestion, Finance, Comptabilité et Commerce",4,Diplome,20,275
+4,Entrepreneuriat,"Management/Gestion, Finance, Comptabilité et Commerce",6 mois,Technique,10,275
+5,Sciences politiques,Sciences économiques et politiques,4,Licence,25,275
+1,Sciences Infirmières,Santé et Professions médicales,4,Diplome,30-40,238
+1,Sciences Infirmières,Santé et Professions médicales,4,Licence,40,240
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,30,370
+1,Sciences Infirmières,Santé et Professions médicales,4,Licence,71,239
+1,Technique Agricole,Agriculture – Agroalimentaire,2,Technique,20,311
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Certificat,20,311
+3,Construction Bâtiment,Métiers du bâtiment et autres,2,Technique,20,311
+4,Technique Informatique,Sciences Informatiques,1,Technique,15,311
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Diplome,80,49
+2,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,50,49
+3,Economie,Sciences économiques et politiques,4,Licence,90,49
+1,Sciences Infirmières,Santé et Professions médicales,4,Licence,120,262
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,200,279
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Technique,40,139
+2,Technologie médicale,Santé et Professions médicales,3 ans,Technique,35,139
+1,Biologie,Biologie/Chimie,2-4 ans,Master 1,1,384
+2,Chimie,Biologie/Chimie,2-4 ans,Master 1,1,384
+3,Administration Scolaire,Sciences de l’Education,2-4 ans,Master 1,1,384
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,50,353
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,43,215
+2,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,42,215
+1,Espagnol,Langues et Lettres,4,Certificat,30,218
+2,Anglais,Langues et Lettres,3 ans,Technique,40,218
+1,Sciences Infirmières,Santé et Professions médicales,4,Diplome,124,237
+2,Technologie médicale,Santé et Professions médicales,3 ans,Diplome,39,237
+1,Anglais,Langues et Lettres,2,Certificat,20-25,341
+2,Espagnol,Langues et Lettres,2,Certificat,20-25,341
+3,Français Langue étrangère (FLE),Langues et Lettres,2,Certificat,20-25,341
+1,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",3,Licence,40,18
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",3,Licence,30,18
+3,Diplomatie,Sciences économiques et politiques,3,Licence,30,18
+4,Relations Internationales,Sciences économiques et politiques,3,Licence,40,18
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Technique,14,354
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,75,355
+2,Auxiliaire,Santé et Professions médicales,3 ans,Certificat,25,355
+3,Technologie médicale,Santé et Professions médicales,3 ans,Technique,42,355
+1,Technologie médicale,Santé et Professions médicales,3,Diplome,25,254
+2,Auxiliaire,Santé et Professions médicales,2,Diplome,20,254
+3,Sciences Infirmières,Santé et Professions médicales,4,Diplome,40,254
+4,Pharmacie,Santé et Professions médicales,1 an,Diplome,20,254
+1,Art - Floral,"Arts, Culture, Design et mode",9 mois,Technique,8,334
+2,Patisserie,"Tourisme, Hôtellerie et Restauration",6 mois,Technique,19,334
+3,Cuisine,"Tourisme, Hôtellerie et Restauration",9 mois,Technique,47,334
+4,Patisserie,"Tourisme, Hôtellerie et Restauration",9 mois,Technique,33,334
+5,Patisserie,"Tourisme, Hôtellerie et Restauration",9 mois,Technique,30,334
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Certificat,27,205
+2,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",1,Certificat,15,205
+3,Ticketing,Métiers de l'air,1,Certificat,19,205
+4,Technique Informatique,Sciences Informatiques,1,Certificat,24,205
+5,Secrétariat,Secrétariat,2,Certificat,16,205
+1,Sciences Infirmières,Santé et Professions médicales,4,Diplome,22,258
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,40,365
+1,Technique Agricole,Agriculture – Agroalimentaire,2,Diplome,10,127
+2,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,17,127
+3,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,15,127
+4,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,20,127
+5,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,16,127
+6,Finance et Banque,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,12,127
+7,Marketing,Marketing,2,Diplome,15,127
+8,Informatique de Gestion,Sciences Informatiques,2,Technique,16,127
+9,Réseau,Sciences Informatiques,2 ans,Technique,10,127
+10,Assistante Administrative,Secrétariat,1,Licence,30,127
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,26,366
+1,Electricité,Métiers du bâtiment et autres,2,Certificat,20,80
+2,Electricité,Métiers du bâtiment et autres,2,Certificat,30,80
+3,Electrotechnique/Electromecanique,Métiers du bâtiment et autres,2,Certificat,45,80
+4,Génie Electronique,Sciences de l’Ingénieur,5,Licence,50,80
+5,Génie Electrique,Sciences de l’Ingénieur,5,Licence,30,80
+6,Génie Mécanique,Sciences de l’Ingénieur,5,Licence,30,80
+7,Réseau,Sciences Informatiques,2,Certificat,20,80
+8,Télécommunication,Sciences Informatiques,2,Certificat,25,80
+1,Technologie médicale,Santé et Professions médicales,3,Diplome,150,82
+2,- - Non-defini - -,Santé et Professions médicales,3,Diplome,150,82
+1,Droit,Droit,4,Licence,20,70
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,25,70
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,30,70
+4,Economie,Sciences économiques et politiques,4,Licence,20,70
+5,Sciences politiques,Sciences économiques et politiques,4,Licence,15,70
+6,Relations Internationales,Sciences économiques et politiques,4,Licence,26,70
+1,Tourisme et Patrimoine,"Architecture, Urbanisme et Aménagement du territoire",4,Licence,30,31
+2,Histoire de l'Art et Archéologie,"Arts, Culture, Design et mode",4,Licence,25,31
+3,Philosophie,Sciences Humaines et Sociales,4,Licence,35,31
+4,Géographie,Sciences Humaines et Sociales,4,Licence,23,31
+5,Histoire,Sciences Humaines et Sociales,4,Licence,19,31
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Technique,28,126
+2,Technique Informatique,Sciences Informatiques,1,Technique,20,126
+3,Secrétariat,Secrétariat,2,Technique,25,126
+4,Secrétariat,Secrétariat,1,Technique,18,126
+1,Langues vivantes,Langues et Lettres,-,Diplome,-,225
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,6,225
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,18,225
+4,Marketing,Marketing,-,Licence,-,225
+5,Mathématiques,Mathématiques/Physique,-,Licence,-,225
+6,Mathématiques,Mathématiques/Physique,-,Licence,-,225
+7,Sciences Informatiques,Sciences Informatiques,4,Licence,20,225
+8,Télécommunication,Sciences Informatiques,-,Licence,-,225
+1,Architecture,"Architecture, Urbanisme et Aménagement du territoire",4 ans,Diplome,5,278
+2,Droit,Droit,4 ans,Licence,17,278
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,30,278
+4,Sciences Infirmières,Santé et Professions médicales,4 ans,Licence,20,278
+5,Sciences de l'Education,Sciences de l’Education,4 ans,Licence,25,278
+6,Enseignement prescolaire et primaire,Sciences de l’Education,2 ans,Diplome,10,278
+7,Génie Civil,Sciences de l’Ingénieur,4 ans,Licence,6,278
+8,Génie Mécanique,Sciences de l’Ingénieur,5 ans,Licence,10,278
+9,Economie,Sciences économiques et politiques,4 ans,Licence,7,278
+10,Diplomatie,Sciences économiques et politiques,4 ans,Licence,15,278
+11,Sciences Informatiques,Sciences Informatiques,4 ans,Licence,5,278
+1,Architecture,"Architecture, Urbanisme et Aménagement du territoire",6,Licence,50 @ 100,42
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",5,Licence,150 @ 200,42
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",5,Licence,150 @ 200,42
+4,Gestion Financière,"Management/Gestion, Finance, Comptabilité et Commerce",5,Licence,150 @ 200,42
+5,Génie Civil,Sciences de l’Ingénieur,5,Licence,100,42
+6,Génie Electronique,Sciences de l’Ingénieur,5,Licence,50 @ 100,42
+7,Economie,Sciences économiques et politiques,5,Licence,150 @ 200,42
+8,Psychologie,Sciences Humaines et Sociales,5,Licence,150 @ 200,42
+9,Sciences Informatiques,Sciences Informatiques,5,Licence,150 @ 200,42
+1,Auxiliaire,Santé et Professions médicales,3,Certificat,50 @ 100,256
+1,Techniques Douanières,Douane,1,Certificat,15,316
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Certificat,23,316
+3,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",2,Certificat,12,316
+4,Technique Informatique,Sciences Informatiques,1,Technique,20,316
+5,Dépannage d'ordinateurs,Sciences Informatiques,1,Technique,15,316
+6,Réseau,Sciences Informatiques,2,Technique,10,316
+7,Secrétariat,Secrétariat,2,Technique,18,316
+1,Construction Bâtiment,Métiers du bâtiment et autres,2,Certificat,20,207
+2,Technique Informatique,Sciences Informatiques,2,Certificat,15,207
+1,Technique Agricole,Agriculture – Agroalimentaire,2 ans,Technique,16,374
+2,Construction Bâtiment,Métiers du bâtiment et autres,2 ans,Technique,16,374
+3,Electricité,Métiers du bâtiment et autres,2 ans,Technique,15,374
+4,Ferronnerie Soudure,Métiers du bâtiment et autres,2 ans,Technique,16,374
+5,Plomberie,Métiers du bâtiment et autres,2 ans,Technique,16,374
+6,Technique Informatique,Sciences Informatiques,1,Technique,15,374
+1,Droit,Droit,4,Licence,3,72
+2,Sciences du Développement,Sciences Humaines et Sociales,4,Licence,10,72
+1,Techniques Douanières,Douane,1,Certificat,15,292
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",1,Certificat,15,292
+3,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",1,Certificat,20,292
+4,Technique Informatique,Sciences Informatiques,1,Certificat,20,292
+1,Haute Couture,"Arts, Culture, Design et mode",2,Diplome,22,123
+2,Patisserie,"Tourisme, Hôtellerie et Restauration",2,Diplome,2,123
+3,Cuisine,"Tourisme, Hôtellerie et Restauration",2,Diplome,22,123
+4,Patisserie,"Tourisme, Hôtellerie et Restauration",2,Diplome,22,123
+1,Coupe couture,"Arts, Culture, Design et mode",16 mois,Technique,Pas encore,302
+2,Cuisine,"Tourisme, Hôtellerie et Restauration",11 mois,Technique,16,302
+3,Patisserie,"Tourisme, Hôtellerie et Restauration",11 mois,Technique,16,302
+1,Dépannage d'ordinateurs,Sciences Informatiques,1,Technique,20,333
+2,Technique Informatique,Sciences Informatiques,2,Technique,25-30,333
+3,Secrétariat,Secrétariat,2,Technique,15-20,333
+1,Artisanat,"Arts, Culture, Design et mode",2,Technique,5 @ 10,211
+1,Sciences Infirmières,Santé et Professions médicales,4,Diplome,102,261
+1,Anglais,Langues et Lettres,1 an,Technique,25,212
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,25,212
+3,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",2 ans,Diplome,25,212
+4,Gestion des Ressources Humaines,"Management/Gestion, Finance, Comptabilité et Commerce",2 ans,Technique,25,212
+5,Technique Informatique,Sciences Informatiques,1,Diplome,25,212
+6,Dépannage d'ordinateurs,Sciences Informatiques,1 an,Technique,25,212
+1,Techniques Douanières,Douane,1,Technique,12,121
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",1,Technique,23,121
+3,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",1,Technique,6,121
+4,Marketing,Marketing,2,Technique,25,121
+5,Ticketing,Métiers de l'air,1,Technique,20,121
+6,Secrétariat,Secrétariat,2,Technique,26,121
+7,Tourisme,"Tourisme, Hôtellerie et Restauration",2 ans,Technique,90,121
+1,Technique Informatique,Sciences Informatiques,1,Technique,16,284
+1,Auxiliaire,Santé et Professions médicales,3,Certificat,6,357
+1,Journalisme,Communication et Journalisme,2,Diplome,250,272
+2,Droit,Droit,4,Licence,9,272
+3,Droit,Droit,4,Licence,60,272
+4,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,32,272
+5,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,260,272
+6,Gestion des ONG,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,400,272
+7,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,63,272
+8,Génie Civil,Sciences de l’Ingénieur,5,Licence,20,272
+9,Economie,Sciences économiques et politiques,4,Licence,3,272
+10,Sciences politiques,Sciences économiques et politiques,4,Licence,3,272
+11,Relations Internationales,Sciences économiques et politiques,4,Licence,70,272
+12,Sciences du Développement,Sciences Humaines et Sociales,4,Licence,22,272
+13,Sciences Informatiques,Sciences Informatiques,4,Licence,90,272
+1,Coupe couture,"Arts, Culture, Design et mode",2,Technique,15,306
+2,Cosmétologie,"Arts, Culture, Design et mode",9 mois,Technique,15,306
+3,Carrelage,Métiers du bâtiment et autres,6 mois,Technique,13,306
+4,Technologie médicale,Santé et Professions médicales,2,Certificat,16,306
+5,Sciences Infirmières,Santé et Professions médicales,4,Certificat,15,306
+6,Enseignement supérieur,Sciences de l’Education,3,Technique,17,306
+7,Patisserie,"Tourisme, Hôtellerie et Restauration",9 mois,Technique,10,306
+8,Patisserie,"Tourisme, Hôtellerie et Restauration",9 mois,Technique,10,306
+1,Théologie,Sciences Humaines et Sociales,4 ans,Licence,29,233
+2,Théologie,Sciences Humaines et Sociales,2 ans,Diplome,1,233
+3,Théologie,Sciences Humaines et Sociales,1,Certificat,30,233
+1,Coupe couture,"Arts, Culture, Design et mode",2,Technique,40,117
+2,Mécanique automobile,Mécanique,2 ans,Technique,30,117
+3,Réfrigération,Métiers du bâtiment et autres,1,Technique,35,117
+4,Charpenterie,Métiers du bâtiment et autres,2 ans,Technique,30,117
+5,Construction Bâtiment,Métiers du bâtiment et autres,2 ans,Technique,40,117
+6,Ebenisterie,Métiers du bâtiment et autres,2 ans,Technique,30,117
+7,Electricité,Métiers du bâtiment et autres,2 ans,Technique,40,117
+8,Ferronnerie Soudure,Métiers du bâtiment et autres,2 ans,Technique,30,117
+9,Plomberie,Métiers du bâtiment et autres,2 ans,Technique,35,117
+10,Cuisine,"Tourisme, Hôtellerie et Restauration",1,Technique,30,117
+1,Sciences Infirmières,Santé et Professions médicales,4,Licence,14,241
+1,Techniques Douanières,Douane,2,Technique,9,116
+2,Technique Informatique,Sciences Informatiques,1,Technique,14,116
+3,Secrétariat,Secrétariat,2,Technique,14,116
+4,Assistante Administrative,Secrétariat,2 ans,Technique,7,116
+1,Auxiliaire,Santé et Professions médicales,3 ans,Diplome,12,358
+1,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",2,Technique,17,114
+2,Secrétariat,Secrétariat,2,Technique,56,114
+3,Patisserie,"Tourisme, Hôtellerie et Restauration",2,Technique,16,114
+1,Coupe - Confect.Féminine,"Arts, Culture, Design et mode",2,Technique,46,113
+2,Broderie,"Arts, Culture, Design et mode",2,Technique,46,113
+3,Cosmétologie,"Arts, Culture, Design et mode",1 an,Technique,18,113
+4,Cuisine,"Tourisme, Hôtellerie et Restauration",1,Technique,17,113
+5,Patisserie,"Tourisme, Hôtellerie et Restauration",1,Technique,17,113
+1,Technique Informatique,Sciences Informatiques,1,Technique,20,112
+2,Secrétariat,Secrétariat,1,Technique,25,112
+1,Mécanique Auto - Diesel,Mécanique,2,Technique,28,111
+2,Mécanique Industrielle,Mécanique,2,Technique,25,111
+3,Electronique/Autotronique,Métiers du bâtiment et autres,2,Technique,16,111
+4,Electricité,Métiers du bâtiment et autres,2,Technique,19,111
+5,Plomberie,Métiers du bâtiment et autres,2,Technique,30,111
+1,Coupe couture,"Arts, Culture, Design et mode",1 an,Technique,20,332
+2,Secrétariat,Secrétariat,2,Technique,25,332
+3,Patisserie,"Tourisme, Hôtellerie et Restauration",1 an,Technique,15,332
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Technique,25,291
+2,Secrétariat,Secrétariat,2,Technique,25,291
+1,Sciences Informatiques,Sciences Informatiques,2,Technique,30,330
+1,Techniques Douanières,Douane,1,Certificat,20,318
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",1,Certificat,26,318
+3,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",1,Certificat,20,318
+4,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",2 ans,Technique,20,318
+5,Relations publiques,Marketing,2,Technique,16,318
+6,Ticketing,Métiers de l'air,1,Certificat,30,318
+7,Relations Internationales,Sciences économiques et politiques,2 ans,Technique,17,318
+8,Technique Informatique,Sciences Informatiques,1,Certificat,26,318
+9,Assistante Administrative,Secrétariat,1,Technique,60,318
+10,Secrétariat,Secrétariat,2,Technique,10,318
+11,Hôtellerie,"Tourisme, Hôtellerie et Restauration",2,Diplome,10,318
+1,Sciences Expérimentales,Biologie/Chimie,4,Licence,8,59
+2,Sciences Expérimentales,Biologie/Chimie,3 ans,Diplome,8,59
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,27,59
+4,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,17,59
+5,Maths/Physique,Mathématiques/Physique,4,Licence,2,59
+6,Sciences Infirmières,Santé et Professions médicales,4,Licence,30,59
+7,Enseignement prescolaire et primaire,Sciences de l’Education,3,Diplome,4,59
+8,Enseignement prescolaire et primaire,Sciences de l’Education,3,Diplome,3,59
+9,Théologie,Sciences Humaines et Sociales,5,Master 1,43,59
+10,Théologie,Sciences Humaines et Sociales,4,Licence,25,59
+11,Technique Informatique,Sciences Informatiques,3 ans,Diplome,1,59
+1,Agronomie,Agriculture – Agroalimentaire,4 ans,Licence,200,2
+2,Technique Agricole,Agriculture – Agroalimentaire,2 ans,Diplome,200,2
+3,Chimie,Biologie/Chimie,4 ans,Licence,200,2
+4,Droit,Droit,4 ans,Licence,200,2
+5,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,200,2
+6,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,200,2
+7,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,200,2
+8,Marketing,Marketing,2 ans,Diplome,200,2
+9,Maths/Physique,Mathématiques/Physique,4 ans,Licence,200,2
+10,Sciences Infirmières,Santé et Professions médicales,4,Licence,200,2
+11,Auxiliaire,Santé et Professions médicales,2 ans,Diplome,200,2
+12,Sciences de l'Education,Sciences de l’Education,4 ans,Licence,200,2
+13,Enseignement prescolaire et primaire,Sciences de l’Education,4 ans,Licence,200,2
+14,Topographie,Sciences de l’Ingénieur,2,Diplome,200,2
+15,Génie Civil,Sciences de l’Ingénieur,4 ans,Licence,200,2
+16,Génie Electromécanique,Sciences de l’Ingénieur,4 ans,Licence,200,2
+17,Génie Civil,Sciences de l’Ingénieur,2 ans,Diplome,200,2
+18,Economie,Sciences économiques et politiques,4,Licence,200,2
+19,Diplomatie,Sciences économiques et politiques,4 ans,Licence,200,2
+20,Sciences du Développement,Sciences Humaines et Sociales,4 ans,Licence,200,2
+21,Sciences Informatiques,Sciences Informatiques,4,Licence,200,2
+22,Informatique de Gestion,Sciences Informatiques,2 ans,Diplome,200,2
+23,Dépannage d'ordinateurs,Sciences Informatiques,2 ans,Diplome,200,2
+24,Réseau,Sciences Informatiques,2 ans,Diplome,200,2
+25,Assistante Administrative,Secrétariat,2,Diplome,200,2
+26,Hôtellerie,"Tourisme, Hôtellerie et Restauration",2 ans,Diplome,200,2
+27,Tourisme,"Tourisme, Hôtellerie et Restauration",2 ans,Diplome,200,2
+1,Agronomie,Agriculture – Agroalimentaire,5 ans,Licence,35,399
+2,Gouvernance,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,47,399
+3,Sciences de l'Education,Sciences de l’Education,4 ans,Licence,25,399
+1,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,20,54
+2,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",1,Diplome,15,54
+3,Sciences de l'Education,Sciences de l’Education,4,Licence,25,54
+4,Génie Civil,Sciences de l’Ingénieur,4,Licence,27,54
+5,Technique Informatique,Sciences Informatiques,2,Diplome,25,54
+1,Agronomie,Agriculture – Agroalimentaire,5 ans,Licence,15-20,43
+2,Technique Agricole,Agriculture – Agroalimentaire,3 ans,Diplome,15-20,43
+3,Architecture,"Architecture, Urbanisme et Aménagement du territoire",4,Licence,20-25,43
+4,Lettres,Langues et Lettres,4,Licence,25-30,43
+5,Gestion de PME,"Management/Gestion, Finance, Comptabilité et Commerce",5 ans,Licence,35-40,43
+6,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,30-40,43
+7,Génie Civil,Sciences de l’Ingénieur,5,Licence,25-30,43
+8,Génie Electromécanique,Sciences de l’Ingénieur,5,Licence,20-30,43
+9,Génie Industriel,Sciences de l’Ingénieur,5,Licence,20-25,43
+10,Programmation,Sciences Informatiques,2,Licence,15-20,43
+11,Génie Logiciel,Sciences Informatiques,2,Diplome,20-25,43
+12,Réseau et Télécommunications,Sciences Informatiques,2,Diplome,25-30,43
+13,Réalisateur et Concepteur Multimédia,Sciences Informatiques,4,Licence,20-25,43
+14,Infographie,Sciences Informatiques,2,Diplome,20-30,43
+15,Technique Informatique,Sciences Informatiques,2,Diplome,15-25,43
+1,Agronomie,Agriculture – Agroalimentaire,5,Licence,125,51
+2,Beaux-Arts,"Arts, Culture, Design et mode",4,Licence,3,51
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,8,51
+4,Théologie,Sciences Humaines et Sociales,4,Licence,21,51
+5,Théologie,Sciences Humaines et Sociales,2,Master 1,5,51
+1,Agronomie,Agriculture – Agroalimentaire,5 ans,Licence,34,398
+2,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,17,398
+3,Vétérinaire,Santé et Professions médicales,5 ans,Licence,6,398
+1,Agronomie,Agriculture – Agroalimentaire,5,Licence,30,277
+2,Droit,Droit,4,Licence,20-25,277
+3,Environnement,Environnement et Sciences de la Terre,4,Licence,20-25,277
+4,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,25-30,277
+5,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,30-35,277
+6,Gestion Financière,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,30-35,277
+7,Sciences de l'Education,Sciences de l’Education,4,Licence,30-35,277
+8,Génie Civil,Sciences de l’Ingénieur,5,Licence,20-30,277
+9,Sciences politiques,Sciences économiques et politiques,4,Licence,20-25,277
+1,Communication,Communication et Journalisme,4,Licence,4,3
+2,Droit,Droit,4,Licence,1,3
+3,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,260,3
+4,Finance et Banque,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,8,3
+5,Sciences Informatiques,Sciences Informatiques,4,Licence,10,3
+1,Agronomie,Agriculture – Agroalimentaire,5,Licence,200 à 250,68
+2,Communication,Communication et Journalisme,4,Licence,100 à 150,68
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,200 à 250,68
+4,Sciences Infirmières,Santé et Professions médicales,4,Licence,100 à 150,68
+5,Sciences de l'Education,Sciences de l’Education,4,Licence,100 à 150,68
+6,Sciences Religieuses,Sciences Humaines et Sociales,4,Licence,100 à 150,68
+7,Sciences Informatiques,Sciences Informatiques,4,Licence,100 à 150,68
+1,Techniques Douanières,Douane,1 an,Technique,10,325
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,45,325
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,30,325
+4,Techniques Bancaires,"Management/Gestion, Finance, Comptabilité et Commerce",18 mois,Technique,10,325
+5,Marketing,Marketing,4 ans,Licence,10,325
+6,Technique Informatique,Sciences Informatiques,1,Certificat,20,325
+7,Assistante Administrative,Secrétariat,18 mois,Diplome,20,325
+8,Secrétariat,Secrétariat,2 ans,Technique,15,325
+1,Musicologie,"Arts, Culture, Design et mode",4,Licence,-,373
+2,Arts du Spectacle,"Arts, Culture, Design et mode",4,Diplome,-,373
+3,Arts plastiques,"Arts, Culture, Design et mode",3 ans,Diplome,-,373
+4,Communication,Communication et Journalisme,M1,Technique,1,373
+5,Français Langue étrangère (FLE),Langues et Lettres,2 ans,Diplome,-,373
+6,Anglais,Langues et Lettres,3 ans,Diplome,-,373
+7,Espagnol,Langues et Lettres,3 ans,Diplome,-,373
+8,Français Langue étrangère (FLE),Langues et Lettres,3 ans,Diplome,-,373
+9,Linguistique,Langues et Lettres,M1,Technique,5,373
+10,Linguistique,Langues et Lettres,M2,Technique,2,373
+11,Français Langue étrangère (FLE),Langues et Lettres,M1,Technique,7,373
+12,Education Familiale et Sexologie,Sciences de l’Education,2 ans,Diplome,110,373
+13,Pédagogie,Sciences de l’Education,2 ans,Technique,2,373
+14,Psychologie,Sciences Humaines et Sociales,3 ans,Technique,12,373
+1,Architecture,"Architecture, Urbanisme et Aménagement du territoire",4,Licence,100,52
+2,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,100,52
+3,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,100,52
+4,Génie Civil,Sciences de l’Ingénieur,5,Licence,100,52
+5,Topographie,Sciences de l’Ingénieur,5,Licence,100,52
+6,Théologie,Sciences Humaines et Sociales,4,Diplome,100,52
+7,Sciences Informatiques,Sciences Informatiques,4,Licence,100,52
+1,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",5 ans,Licence,150 à 200,342
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",5 ans,Licence,150 à 200,342
+3,Gestion Financière,"Management/Gestion, Finance, Comptabilité et Commerce",5 ans,Licence,150 à 200,342
+4,Sciences de l'Education,Sciences de l’Education,5 ans,Diplome,150 à 200,342
+5,Pédagogie,Sciences de l’Education,5 ans,Licence,150 à 200,342
+6,Génie Electronique,Sciences de l’Ingénieur,6,Licence,50 à 100,342
+7,Génie Civil,Sciences de l’Ingénieur,5 ans,Licence,150 à 200,342
+8,Economie,Sciences économiques et politiques,5 ans,Licence,150 à 200,342
+9,Sciences Informatiques,Sciences Informatiques,5 ans,Licence,150 à 200,342
+10,Informatique de Gestion,Sciences Informatiques,5 ans,Licence,150 à 200,342
+1,Droit,Droit,4,Licence,30,71
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,40,71
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,35,71
+4,Gestion de Projets,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,30,71
+5,Finance et Banque,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,14,71
+6,Entrepreneuriat,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,30,71
+7,Construction Bâtiment,Métiers du bâtiment et autres,18 mois,Technique,18,71
+8,Sciences Infirmières,Santé et Professions médicales,4,Licence,40,71
+9,Auxiliaire,Santé et Professions médicales,2,Diplome,20,71
+10,Sciences de l'Education,Sciences de l’Education,4,Licence,24,71
+11,Enseignement prescolaire et primaire,Sciences de l’Education,4,Licence,20,71
+12,Théologie,Sciences Humaines et Sociales,4,Licence,15,71
+13,Sciences du Développement,Sciences Humaines et Sociales,1,Technique,10,71
+14,Secrétariat,Secrétariat,2,Technique,20,71
+15,Secrétariat,Secrétariat,1,Certificat,15,71
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,15,339
+2,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,20,339
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Diplome,5,339
+4,Sciences Infirmières,Santé et Professions médicales,4 ans,Licence,60,339
+5,Economie,Sciences économiques et politiques,4,Diplome,30,339
+1,Architecture,"Architecture, Urbanisme et Aménagement du territoire",4,Diplome,10,66
+2,Droit,Droit,4,Diplome,17,66
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,17,66
+4,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,17,66
+5,Gestion de Projets,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Technique,17,66
+6,Médecine Générale,Santé et Professions médicales,7,Licence,44,66
+7,Sciences Infirmières,Santé et Professions médicales,4,Licence,52,66
+8,Sciences de l'Education,Sciences de l’Education,4,Diplome,25,66
+9,Génie Civil,Sciences de l’Ingénieur,5,Diplome,24,66
+10,Génie Electronique,Sciences de l’Ingénieur,4,Licence,13,66
+11,Théologie,Sciences Humaines et Sociales,4,Diplome,15,66
+12,Sciences Informatiques,Sciences Informatiques,4,Licence,13,66
+1,Agronomie,Agriculture – Agroalimentaire,5,Licence,30,44
+2,Technologie Alimentaire,Agriculture – Agroalimentaire,4,Licence,20,44
+3,Ressources Naturelles et Environnement,Agriculture – Agroalimentaire,4,Licence,20,44
+4,Recherche et Développement,Agriculture – Agroalimentaire,4,Licence,30,44
+5,Droit,Droit,4,Certificat,40,44
+6,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,50,44
+7,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,80,44
+8,Médecine Générale,Santé et Professions médicales,7,Licence,77,44
+9,Sciences Infirmières,Santé et Professions médicales,4,Licence,75,44
+10,Sciences de l'Education,Sciences de l’Education,4,Diplome,30,44
+11,Economie,Sciences économiques et politiques,4,Licence,50,44
+12,Sciences politiques,Sciences économiques et politiques,4,Licence,20,44
+13,Criminologie,Sciences Humaines et Sociales,4,Licence,35,44
+14,Technique Informatique,Sciences Informatiques,2 ans,Certificat,30,44
+1,Agronomie,Agriculture – Agroalimentaire,4,Licence,71,231
+2,Langues vivantes,Langues et Lettres,1 an,Certificat,20,231
+3,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,15,231
+1,Technologie médicale,Santé et Professions médicales,3,Diplome,50,232
+2,Sciences Infirmières,Santé et Professions médicales,4,Diplome,85,232
+1,Agronomie,Agriculture – Agroalimentaire,5,Licence,20,222
+2,Gestion des Ressources Humaines,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,9,222
+3,Gestion Financière,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,3,222
+4,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,3,222
+5,Sciences Infirmières,Santé et Professions médicales,4,Licence,11,222
+6,Sciences de l'Education,Sciences de l’Education,4,Licence,2,222
+7,Génie Civil,Sciences de l’Ingénieur,5 ans,Licence,20,222
+8,Théologie,Sciences Humaines et Sociales,4,Licence,3,222
+1,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,75 @ 100,227
+2,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,75 @ 100,227
+3,Sciences Infirmières,Santé et Professions médicales,4,Licence,75 @ 100,227
+4,Sciences de l'Education,Sciences de l’Education,4,Licence,75 @ 100,227
+1,Production végétale,Agriculture – Agroalimentaire,5,Licence,230,343
+2,Production Animale ou Zootechnie,Agriculture – Agroalimentaire,4,Licence,230,343
+3,Sciences Expérimentales,Biologie/Chimie,4 ans,Licence,76,343
+4,Sciences Expérimentales,Biologie/Chimie,18 mois,Diplome,150,343
+5,Chimie,Biologie/Chimie,18 mois,Diplome,150,343
+6,Langues vivantes,Langues et Lettres,18 mois,Diplome,150,343
+7,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,186,343
+8,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,186,343
+9,Mathématiques,Mathématiques/Physique,4 ans,Licence,76,343
+10,Mathématiques,Mathématiques/Physique,18 mois,Diplome,150,343
+11,Physique,Mathématiques/Physique,18 mois,Diplome,150,343
+12,Administration Scolaire,Sciences de l’Education,18 mois,Diplome,150,343
+1,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,100,226
+2,Gouvernance,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,100,226
+3,Maths/Physique,Mathématiques/Physique,4 ans,Licence,100,226
+4,Pédagogie,Sciences de l’Education,4 ans,Licence,100,226
+5,Hôtellerie,"Tourisme, Hôtellerie et Restauration",3 ans,Certificat,100,226
+6,Tourisme,"Tourisme, Hôtellerie et Restauration",3 ans,Certificat,100,226
+1,Droit,Droit,4 ans,Licence,50 à 60,230
+2,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,40 à 50,230
+3,Sciences de l'Education,Sciences de l’Education,4 ans,Licence,40 à 50,230
+1,Agronomie,Agriculture – Agroalimentaire,5 ans,Licence,25,397
+2,Management/Gestion,"Management/Gestion, Finance, Comptabilité et Commerce",4 ans,Licence,25,397
+3,Sciences de l'Education,Sciences de l’Education,4 ans,Licence,120,397
+1,Production Agricole ou Phytotechnie,Agriculture – Agroalimentaire,4,Licence,15,48
+2,Aménagement du territoire,"Architecture, Urbanisme et Aménagement du territoire",4,Licence,12,48
+3,Architecture,"Architecture, Urbanisme et Aménagement du territoire",4,Licence,1,48
+4,Biologie,Biologie/Chimie,4,Licence,13,48
+5,Droit,Droit,4,Licence,25,48
+6,Finance et Banque,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,13,48
+7,Gestion de PME,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,13,48
+8,Gestion Touristique,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,13,48
+9,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",4,Licence,13,48
+10,Gestion de Projets,"Management/Gestion, Finance, Comptabilité et Commerce",2,Diplome,13,48
+11,Médecine Générale,Santé et Professions médicales,7,Licence,59,48
+12,Sciences de l'Education,Sciences de l’Education,4,Licence,1,48
+13,Administration Scolaire,Sciences de l’Education,4,Licence,1,48
+14,Ingénieur Agronome,Sciences de l’Ingénieur,4,Licence,6,48
+15,Topographie,Sciences de l’Ingénieur,4,Licence,1,48
+16,Génie Industriel,Sciences de l’Ingénieur,4,Licence,1,48
+17,Génie Civil,Sciences de l’Ingénieur,4,Licence,1,48
+18,Relations Internationales,Sciences économiques et politiques,4,Licence,15,48
+19,Economie,Sciences économiques et politiques,4,Licence,20,48
+20,Sciences politiques,Sciences économiques et politiques,4,Licence,4,48
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,87,359
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,50,371
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Diplome,39,360
+1,Sciences Infirmières,Santé et Professions médicales,4 ans,Technique,28,361
+1,Technique Agricole,Agriculture – Agroalimentaire,2 ans,Technique,40,301
+2,Comptabilité,"Management/Gestion, Finance, Comptabilité et Commerce",2,Certificat,40,301
+3,Mécanique automobile,Mécanique,2,Technique,20,301
